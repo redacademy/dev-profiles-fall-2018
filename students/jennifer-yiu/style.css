@@ -1,0 +1,63 @@
+body{
+     background-image: url("http://i1341.photobucket.com/albums/o751/rezill5/explosive%20color_zpswjm6vieh.jpg");
+   }
+   
+   div.transbox {
+     margin: 30px;
+     background-color: #ffffff;
+     border: 1px solid black;
+     opacity: 0.6;
+   }
+   
+   p {
+    color: black;
+    font-size: 16px; 
+    font-family: sans-serif;
+    padding: 0px 30px 20px 30px;
+    letter-spacing: .5px;
+    line-height: 140%;
+     text-align: center
+   }
+ 
+   .headertext {
+     padding: 30px 20px 0px 20px;
+     line-height: 5%;
+     font-family: "verdana";
+   }
+   
+   .subheadertext {
+     padding: 0px 20px 30px 20px;
+     font-weight: 50;
+   }
+   
+   .bodytitle {
+     font-family: "trebuchet ms";
+     padding-left: 20px;
+     font-size: 24px;
+     font-color: grey;
+     text-align: center;
+   }
+   
+   .clearfix {
+     overflow: auto;
+     padding: 0px 20px 0px 0px;
+     margin: 0px 20px 0px 0px;
+
+   }
+   
+   .img {
+     float: left;
+     width: 18%;
+     padding: 10px 20px 0px 30px;
+   }
+   
+   .two-columns {
+-moz-column-count: 2;
+-moz-column-gap: 60px;
+-webkit-column-count: 2;
+-webkit-column-gap: 60px;
+column-count: 2;
+column-gap: 60px;
+     padding: 0px 200px 0px 100px;
+}
+   

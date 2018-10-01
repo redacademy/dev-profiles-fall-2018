@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+}
+
+
+
+/*----------------
+
+        TITLE
+ ---------------*/
+
+
+.title{
+    background: #22222A;
+    position: relative;
+    height: 100%;
+}
+
+.title2{
+    position: absolute;
+    top: 15%;
+    left: 70%;
+    font-family: SF-Pro-Display-Bold;
+    color: white;
+    font-size: 40px;
+}
+
+
+.block1{
+    font-family: SF-Pro-Display-light;
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    z-index: 2;
+
+}
+
+.block1 h1, .block1 h2{
+    font-size: 6em;
+    line-height: 73%;
+}
+
+.block1 h1{
+    color: #3E3E4D;
+}
+
+.block1 h2{
+    color: #BDBDD4;
+    position: absolute;
+    left: 70%;
+}
+
+.block2{
+    color: white;
+    float: left;
+    display: block;
+    margin-left: 84px;
+    font-size: 15px;
+    line-height: 70px;
+    font-weight: bold;
+    font-family: SF-Pro-Display-light;
+}
+
+
+.img{
+    position: absolute;
+    z-index: 1;
+    top: 12.2%;
+    right: 60%;
+    opacity: 0.8;
+}
+
+.links{
+    color: white;
+    font-size: 2em;
+    list-style: none;
+    float: right;
+    margin: 20px 20px;
+}
+
+ul li{
+    display: inline;
+}
+
+i{
+    color: white;
+}
+
+i:hover{
+    color: red;
+}
+
+
+/*---------------------
+
+        INFO
+ ---------------------*/
+
+.info{
+    background: #3E3E4D;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-family: SFCompactDisplay-Thin;
+    padding: 0 10px;
+}
+
+span{
+    font-weight: bold;
+    color: red;
+}
+
+p{
+    margin: 30px 0;
+}
+
+.funfacts{
+
+}
+
+.funfacts ul li{
+    display: block;
+    margin: 10px 0;
+}
+
+.funfacts i{
+    font-size: 25px;
+}

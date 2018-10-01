@@ -1,0 +1,54 @@
+body {
+	background-image: url(images/light-grey-terrazzo.png);
+	background-attachment: fixed;
+	text-align: left;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-family: 'Nunito Sans', sans-serif;
+}
+.center {
+	text-align: center;
+}
+h2 {
+	margin: 0;
+	text-align: center;
+}
+li {
+	margin-left: 43%;
+	margin-right: 50%;
+}
+.picture {
+	margin: 0 auto;
+	width:200px;
+	height: 200px;
+	border-radius: 50%;
+	padding: 0px 0px 20px 0px;
+}
+img {
+	height: 200px;
+	margin-right: 2%;
+	margin-left: 2%;
+}
+.share {
+    text-align: center;
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+a {
+    color: white;
+    background-color: grey;
+    padding: 10px 10px;
+    align-content: center;
+    border-radius: 5px;
+}
+.left {
+   float: left;
+   padding: 0px 20px 40px 0px;
+   margin: 20px 0px 0px 0px;
+}
+.right {
+	float: right;
+	padding: 20px 0px 0px 20px;
+	height: 100px;
+	margin: 0px 0px 0px 10px;
+}

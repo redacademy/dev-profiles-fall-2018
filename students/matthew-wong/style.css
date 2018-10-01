@@ -1,0 +1,45 @@
+body {
+    background-color: lightsalmon;
+    color: darkblue;
+}
+
+img {
+    display: inline;
+}
+
+h1 {
+    font-family: Lucida Sans;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    border: 2px solid darkblue;
+    padding: 5px;
+}
+
+h3, ul, li, a {
+    font-family: Helvetica;
+}
+
+h3 {
+    font-style: italic;
+    display: inline;
+}
+
+ul {
+    font-size: 18px;
+}
+
+.location {
+}
+
+.factshead {
+}
+
+a {
+    background-color: darkblue;
+    color: lightsalmon;
+    padding: 3px 3px;
+    border: 1px solid darkblue;
+    border-radius: 5px;
+    margin: 10px 20px;
+}

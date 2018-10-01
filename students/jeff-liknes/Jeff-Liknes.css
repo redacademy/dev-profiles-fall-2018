@@ -1,0 +1,99 @@
+
+
+
+
+
+body {
+
+    background-image: linear-gradient(90deg,rgba(145, 18, 18, 0.842),
+    rgba(94, 78, 78, 0.842),rgba(128, 128, 128, 0.87), rgba(82, 76, 76, 0.664));    
+    font-family: 'Raleway', sans-serif;
+  }
+
+.prior, .description, .experience, .talent, h2,.introduction  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+img {
+    height: 400px;
+    width: 400px;
+    box-align: center;
+    padding: 20px 10px;
+    
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding-bottom: 1px;
+    position: absolute;
+    width: 100%;
+    top: 300px;
+}
+
+
+.pictured {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 340px;
+}
+
+.description,.talent,.experience {
+    text-indent: 30px;
+    }
+
+.experience, .description, .fact, .talent, .picture, .introduction, .pictured {
+    color: white;
+
+}
+
+
+
+h2,h5 {
+    font-family: georgia;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+a {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-left: 120px;
+    padding-top: 50px;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.red {
+    color: hsla(0, 93%, 52%, 0.911);
+}
+
+em {
+    color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.introduction {
+    border: 2px solid;
+    border-radius: 12px;
+    text-align: center;
+
+}
